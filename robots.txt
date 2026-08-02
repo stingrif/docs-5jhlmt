@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zhyk99.koi888.cfd/sitemap.xml
